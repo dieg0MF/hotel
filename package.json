@@ -2,7 +2,7 @@
   "name": "hotel",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://dieg0MF.guithub.io/storePoints",
+  "homepage": "http://dieg0MF.guithub.io/hotel",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
