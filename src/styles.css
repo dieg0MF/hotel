@@ -97,16 +97,24 @@
   }
   .ubicacion {
     font-size: 14px;
-    margin-top: 1em;
-    margin-bottom: 1em;
+    /* margin-top: 1em;
+    margin-bottom: 1em; */
     background-color:rgb(230, 227, 227);
     border-radius: 10%;
     width: 78%;
+    margin:1em 0em ;
+}
+.ubicacion svg{
+  margin-right: 1em;
+
 }
   .habitaciones {
     background-color:rgb(230, 227, 227);
     border-radius: 10%;
     width: 60%;
+  }
+  .habitaciones svg {
+    margin-right: 1em;
   }
   .ubicacion i, .habitaciones i {
       background-color: cornflowerblue;
@@ -120,6 +128,8 @@
       border-radius: 8%;
       padding: 5px;
       color:  rgb(124, 160, 228);
+      display: flex;
+      flex-direction: row;
     }
   
   .number1,
