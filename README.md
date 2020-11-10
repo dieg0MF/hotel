@@ -1,3 +1,7 @@
+React proyect, This project has been developed managing the states through prop drilling.It was the first academy proyect in React.
+https://dieg0mf.github.io/hotel/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
